@@ -1,6 +1,6 @@
 # Git-repos
 
-Project In Action - [Git-repos](https://alt-git-repos.vercel.app)
+Project In Action; Link to the webpage - [Git-repos](https://alt-git-repos.vercel.app)
 
 #### Run The App Locally
 
